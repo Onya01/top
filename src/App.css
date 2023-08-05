@@ -1,7 +1,54 @@
-.App {
-  text-align: center;
+/* .multi-tab-layout {
+  font-family: Arial, sans-serif;
 }
 
+.tabs {
+  display: flex;
+}
+
+.tab {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.tab.active {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.tab-content {
+  padding: 20px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h4 {
+  margin-top: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  margin-right: 10px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-control {
+  margin-bottom: 10px;
+  
+} */
+
+/* .App {
+  text-align: center;
+} */
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +82,45 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* .nav-tabs {
+  background-color: #f8f9fa;
 }
+
+.nav-link {
+  color: #343a40;
+}
+
+.nav-link.active {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.tab-pane {
+  padding: 20px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h4 {
+  margin-top: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  margin-right: 10px;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-control {
+  margin-bottom: 10px;
+} */
