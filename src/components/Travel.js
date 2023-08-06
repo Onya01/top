@@ -136,7 +136,7 @@ const Travel = () => {
       </div>
       <div className="slider-container">
         <button className="slider-button prev-button" onClick={prevImage}>{'<'}</button>
-        <img className="slider-image" src={images[currentImageIndex].img} alt={images[currentImageIndex].alt}/>
+        <img className="slider-image" src={images[currentImageIndex].img} alt={images[currentImageIndex].alt} width='100%'/>
         <button className="slider-button next-button" onClick={nextImage}>{'>'}</button>
       </div>
       <div className="form-container">

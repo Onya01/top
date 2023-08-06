@@ -1,9 +1,7 @@
 .container {
-  /* Your other styles for the container */
   background-image: url('./../Assets/background.jpeg');
   background-size: cover;
   background-position: center;
-  max-width: 1060px;
   margin: 0 auto;
   padding: 5px;
 }
@@ -93,5 +91,3 @@ button[type="submit"] {
 button[type="submit"]:hover {
   background-color: #0056b3;
 }
-
-
